@@ -5,8 +5,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 Estudo programação Web Full Stack (Não tem como fugir do Front End 😄)
+- 🔭 Estudo programação Web Full Stack(Preferência Back End)
 - 🌱 Estudando PHP e JavaScript
+
 <div align="center">
   <a href="https://github.com/ArthurDetomi">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArthurDetomi&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
