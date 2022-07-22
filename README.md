@@ -1,6 +1,6 @@
 ### Olá tudo bem ? 👋
 - Técnico de Informática
-- Cursando Ciência da Computação UFSJ
+- Cursando Ciência da Computação UFSJ(Universidade Federal de São João Del Rei - MG)
 - 🔭 Estudo programação Web Full Stack(Preferência Back End)
 - 🌱 Estudando PHP e JavaScript
 
