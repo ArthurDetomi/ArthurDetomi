@@ -2,7 +2,7 @@
 - Técnico de Informática
 - Cursando Ciência da Computação UFSJ(Universidade Federal de São João Del Rei - MG)
 - 🔭 Estudo programação Web Full Stack(Preferência Back End)
-- 🌱 Estudando PHP e JavaScript
+- 🌱 Estudando Java Web no momento
 
 <div align="center">
   <a href="https://github.com/ArthurDetomi">
