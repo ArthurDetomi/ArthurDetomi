@@ -1,5 +1,5 @@
 ### Olá tudo bem ? 👋
-- Técnico de Informática
+- Técnico de Informática - IFET
 - Cursando Ciência da Computação UFSJ(Universidade Federal de São João Del Rei - MG)
 - 🔭 Estudo programação Web Full Stack(Preferência Back End)
 - 🌱 Estudando Java Web no momento
