@@ -1,8 +1,6 @@
-### Olá tudo bem ? 👋
-- Técnico de Informática - IFET
-- Cursando Ciência da Computação UFSJ(Universidade Federal de São João Del Rei - MG)
-- 🔭 Estudo programação Web Full Stack(Preferência Back End)
-- 🌱 Estudando Java Web no momento
+## Olá, tudo bem ?
+### Programador BackEnd
+- Java, Spring Boot, Jsf, Mysql.
 
 <div align="center">
   <a href="https://github.com/ArthurDetomi">
