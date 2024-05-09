@@ -1,6 +1,5 @@
 ## Olá, tudo bem ?
-### Programador BackEnd
-- Java, Spring Boot, Jsf, Mysql.
+## Software Developer
 
 <div align="center">
   <a href="https://github.com/ArthurDetomi">
