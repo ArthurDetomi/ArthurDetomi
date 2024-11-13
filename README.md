@@ -9,8 +9,6 @@
 [![C](https://img.shields.io/badge/C-7f8b99?style=for-the-badge&logo=c&logoColor=white)](https://github.com/ArthurDetomi?tab=repositories&language=C)
 [![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/ArthurDetomi?tab=repositories&language=JavaScript)
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://github.com/ArthurDetomi?tab=repositories&language=PHP)
-[![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/ArthurDetomi?tab=repositories&language=HTML)
-[![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/ArthurDetomi?tab=repositories&language=CSS)
 [![Python](https://img.shields.io/badge/Python-3772a3?style=for-the-badge&logo=python&logoColor=ffd040)](https://github.com/ArthurDetomi?tab=repositories&language=Python)
 
 ### Frameworks and Libs
@@ -26,7 +24,8 @@ I have solid experience with **MySQL** and **SQL**, and I’m familiar with **Do
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/ArthurDetomi?tab=repositories&q=MySQL)
 [![SQL](https://img.shields.io/badge/SQL-006AFF?style=for-the-badge&logo=sqlite&logoColor=white)](https://github.com/ArthurDetomi?tab=repositories&q=SQL)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/ArthurDetomi?tab=repositories&q=Docker)
-
+[![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/ArthurDetomi?tab=repositories&language=HTML)
+[![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/ArthurDetomi?tab=repositories&language=CSS)
 
 <div align="center">
   <a href="https://github.com/ArthurDetomi">
