@@ -13,6 +13,21 @@
 [![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/ArthurDetomi?tab=repositories&language=CSS)
 [![Python](https://img.shields.io/badge/Python-3772a3?style=for-the-badge&logo=python&logoColor=ffd040)](https://github.com/ArthurDetomi?tab=repositories&language=Python)
 
+### Frameworks and Libs
+
+[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)](https://github.com/ArthurDetomi?tab=repositories&q=Spring%20Boot)
+[![JSF](https://img.shields.io/badge/JSF-4C4F56?style=for-the-badge&logo=java&logoColor=white)](https://github.com/ArthurDetomi?tab=repositories&q=JSF)
+[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://github.com/ArthurDetomi?tab=repositories&q=Laravel)
+
+### Skills and Knowledge
+
+I have solid experience with **MySQL** and **SQL**, and I’m familiar with **Docker** for managing development environments.
+
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/ArthurDetomi?tab=repositories&q=MySQL)
+[![SQL](https://img.shields.io/badge/SQL-006AFF?style=for-the-badge&logo=sqlite&logoColor=white)](https://github.com/ArthurDetomi?tab=repositories&q=SQL)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/ArthurDetomi?tab=repositories&q=Docker)
+
+
 <div align="center">
   <a href="https://github.com/ArthurDetomi">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArthurDetomi&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
