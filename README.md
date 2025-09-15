@@ -15,6 +15,10 @@
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)](https://github.com/ArthurDetomi?tab=repositories&q=Spring%20Boot)
 [![JSF](https://img.shields.io/badge/JSF-4C4F56?style=for-the-badge&logo=java&logoColor=white)](https://github.com/ArthurDetomi?tab=repositories&q=JSF)
 [![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://github.com/ArthurDetomi?tab=repositories&q=Laravel)
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://github.com/ArthurDetomi?tab=repositories&q=React)
+[![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://github.com/ArthurDetomi?tab=repositories&q=React%20Native)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://github.com/ArthurDetomi?tab=repositories&q=Node.js)
+
 
 ### Skills and Knowledge
 
@@ -25,6 +29,8 @@ I have solid experience with **MySQL** and **SQL**, and I’m familiar with **Do
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/ArthurDetomi?tab=repositories&q=Docker)
 [![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/ArthurDetomi?tab=repositories&language=HTML)
 [![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/ArthurDetomi?tab=repositories&language=CSS)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://github.com/ArthurDetomi?tab=repositories&q=MongoDB)
+
 
 <div align="center">
   <a href="https://github.com/ArthurDetomi">
