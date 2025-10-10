@@ -1,6 +1,6 @@
 # Software Developer
 
-Programming is a hobby for me. I enjoy coding in any language, but the lower the level, the more fun I find it.
+Programming is a hobby for me. I enjoy coding in any language, but the lower the level, the more fun it is, the harder it is, the cooler it feels. :satisfied:
 
 ## 💻 I work with
   
